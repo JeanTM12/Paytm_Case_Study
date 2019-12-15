@@ -5,7 +5,7 @@
 ## Origin & Overview
 Paytm a One97 venture was found in August 2010 with an initial investment of $2 million by its founder Vijay Shekhar Sharma in Noida, a region adjacent to India's capital New Delhi. Paytm started by offering mobile recharge and utility bill payments and today it offers a full marketplace to consumers on its mobile apps. Paytm in the most simplified terms is nothing but a medium through which anybody & everybody can recharge or pay majorly all their bills.
 
-While India’s telecom infrastructure was improving in 2010, Vijay’s investors were not confident about the idea of a mobile-first consumer service that would cater to the masses. He personally put $2 Mn at stake to finally launch the brand. The whole idea was to bring in an innovation on the way mobile recharge could be done in India.
+While India’s telecom infrastructure was improving in 2010, Vijay’s investors were not confident about the idea of a mobile-first consumer service that would cater to the masses. He personally put $2 Million at stake to finally launch the brand. The whole idea was to bring in an innovation on the way mobile recharge could be done in India.
 Paytm has a strong foundation with regards to funding-the who’s who of the investment world is backing it, including Japan’s Softbank ($1.4 billion), China’s Ant Financial (Alipay) and Alibaba Group ($700 Million), SAIF Partners ($8.3 million), and Berkshire Hathaway ($357 million).
 
 ## Business Activities:
@@ -36,12 +36,66 @@ According to Deepak Abbot, senior vice president of the company who is based at 
 
 ## Landscape:
 
-**What domain of the financial industry is the company in?**
+**What domain of the financial industry is the company in and What have been the major trends and innovations of this domain over the last 5-10 years?**
 
-Payments & Remittance
+Paytm belong to the Payments & Remittance domain in Fintech. In the last 65 years of development in these technologies is that while they became mainstream and widely used by banks and their customers, the banking sector was not threatened. On the contrary, banks grew. In looking at the U.S.’s FDIC data, from 1950 to 2014, the number of bank branches in the country grew from approximately 18,000 to over 82,000. But now in the early part of the 21st century, retail financial services are being further digitized via mobile wallets, payment apps, robo-advisors for wealth and retirement planning, equity crowdfunding platforms for access to private and alternative investment opportunities and online lending platforms.  These fintech services are not simple enhancements to banking services, but rather replacing banking services completely.
 
-**What have been the major trends and innovations of this domain over the last 5-10 years?**
-In the last 65 years of development in these technologies is that while they became mainstream and widely used by banks and their customers, the banking sector was not threatened. On the contrary, banks grew. In looking at the U.S.’s FDIC data, from 1950 to 2014, the number of bank branches in the country grew from approximately 18,000 to over 82,000. But now in the early part of the 21st century, retail financial services are being further digitized via mobile wallets, payment apps, robo-advisors for wealth and retirement planning, equity crowdfunding platforms for access to private and alternative investment opportunities and online lending platforms.  These fintech services are not simple enhancements to banking services, but rather replacing banking services completely. 
-In most developed countries, the majority of households have at least one bank account which they use as their central hub for receiving paychecks, making payments and saving money.
-But this isn’t the case everywhere. In under-banked or un-banked regions, primarily in parts of Asia and Africa, many individuals hold their life savings in cash, without bank accounts. To capture this distinction more broadly, in developing countries, banking penetration is approximately 41%, compared to 89% in developed countries. In India for example, the country has approximately 102,000 bank branches for a population that is roughly four times that of the U.S., which has approximately 82,000 bank branches.
+In most developed countries, the majority of households have at least one bank account which they use as their central hub for receiving paychecks, making payments and saving money.But this isn’t the case everywhere. In under-banked or un-banked regions, primarily in parts of Asia and Africa, many individuals hold their life savings in cash, without bank accounts. To capture this distinction more broadly, in developing countries, banking penetration is approximately 41%, compared to 89% in developed countries. In India for example, the country has approximately 102,000 bank branches for a population that is roughly four times that of the U.S., which has approximately 82,000 bank branches.
 Fintech startups that offer secure mobile wallets and payment apps are allowing these unbanked populations to safely store their money and make purchases without having to worry about storing or carrying large amounts of cash. M-Pesa (Africa) and Paytm (India) is probably the most successful example of such an app
+
+**What are the other major companies in this domain?**
+
+Some of the major players in the payment domain are:
+-	Pay Pal
+-	Venmo
+-	Stripe
+-	Apple Pay
+-	Android Pay
+
+## Results
+Paytm has witnessed strong growth in the number of transactions in the last two years. With more than 150% growth in transactions between April 2017 and March 2018, the company is now aiming to double its transactions over the next fiscal year (ending March 2019). This growth can be partly attributed to government policies in India promoting digital payments, as well as Paytm’s efforts to bring a wide range of payments such as traffic fines and highway tolls on its platform. The company increased the number of merchants on its platform from 1 million in the beginning of 2017 to 7 million by March 2018, and also launched its mobile app in multiple languages, appealing to the diverse population in India – consequently driving growth. The value of transactions on its platform has also increased by more than 50%. The factors have contributed towards the company’s strong revenue growth.
+Some of the major reasons why Paytm is performing better than its competition are :
+-	Ease of Onboarding Merchants
+-	Virtual Distribution
+-	Frictionless payment
+-	First mover advantage
+## Recommendations
+One of area for improvement would be for PayTm to get into international transactions using blockchain.Some advantages of blockchain would be to eliminate expensive international transfer fees, secure donations and much more. 
+
+Below are some of the issues that Paytm is currently facing which can be fixed with easy remedies:
+-   Diversifying to much: Rather than concentrating on the major income generators and  diversifying at need, Paytm is trying to expand into too many domains too fast, which in turn is creating losses.
+-   Viewership : Paytm should have the ability to show users the how many people actually bought the product, the customer gains tremendous confidence which can make him buy the product quickly. There is an tool called Proof which might help.
+
+## Sources
+[https://home.kpmg/xx/en/home/insights/2019/09/paytm-solving-problems-to-create-opportunity-fs.html]
+
+[https://www.marketing91.com/swot-analysis-paytm/]
+
+[https://digital.hbs.edu/platform-digit/submission/from-pay-through-mobile-to-payment-bank-paytm-is-a-clear-winner-in-digitizing-payment-in-india/]
+
+[http://thinkleton.blogspot.com/2018/07/how-paytm-uses-tech-to-manage-200.html]
+
+[https://thesiliconreview.com/2019/08/paytm-eyes-on-us-based-customers]
+
+[https://www.forbes.com/sites/falgunidesai/2015/12/13/the-evolution-of-fintech/#1f3625257175]
+
+[https://go.forrester.com/blogs/17-05-29-paytm_payments_bank_disruptive_effects_to_be_felt_beyond_banking/]
+
+[https://www.fastcompany.com/company/paytm]
+
+[https://www.euromoney.com/article/b15ts6qpxvj51d/how-paytm-went-big-on-indian-demonetization]
+
+[https://blog.paytm.com/getting-better-than-better-cc7c5cd48c1e]
+
+[https://www.feedough.com/paytm-business-model-how-paytm-makes-money/]
+
+[https://economictimes.indiatimes.com/industry/banking/finance/banking/how-vijay-shekhar-sharma-is-bracing-for-his-biggest-battle/articleshow/63348030.cms?from=mdr]
+
+[https://www.forbes.com/sites/greatspeculations/2018/12/03/is-paytm-worth-20-billion/#54ef7d1f4439]
+
+[https://go.forrester.com/blogs/17-05-29-paytm_payments_bank_disruptive_effects_to_be_felt_beyond_banking/]
+
+[https://www.fastcompany.com/company/paytm]
+
+[https://www.euromoney.com/article/b15ts6qpxvj51d/how-paytm-went-big-on-indian-demonetization]
+
